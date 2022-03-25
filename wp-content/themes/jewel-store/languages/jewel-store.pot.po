@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jewel Store\n"
+"POT-Creation-Date: 2022-02-17 23:43+0530\n"
+"PO-Revision-Date: 2022-02-17 23:43+0530\n"
+"Last-Translator: \n"
+"Language-Team: Netnus <info@netnus.com>\n"
+"Language: en_US\n"
+"MIME-Version: 2.5.2\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:30
+#, php-format
+msgid "One Comments on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: content-page.php:19 content-search.php:28 content-single.php:24
+#: content.php:55 image.php:56 template-full-width.php:24
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:24 content-search.php:39 content-single.php:34
+#: image.php:30 image.php:62
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:15 content.php:25
+msgid ", "
+msgstr ""
+
+#: content.php:52
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: customize-pro/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: customize-pro/class-customize.php:77
+msgid "Upgrade Now"
+msgstr ""
+
+#: functions.php:44
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:57
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:58
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:67
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:68 functions.php:78 functions.php:88
+msgid "Appears on footer"
+msgstr ""
+
+#: functions.php:77
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:87
+msgid "Footer Widget 3"
+msgstr ""
+
+#: image.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:36
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/about-themes.php:11
+msgid "About Theme Info"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Jewel Store Theme Settings"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Site Layout Options"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Check to Show Box Layout"
+msgstr ""
+
+#: inc/customizer.php:101
+msgid "check for box layout"
+msgstr ""
+
+#: inc/customizer.php:112
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Navigation font Color"
+msgstr ""
+
+#: inc/customizer.php:139
+msgid "Navigation Hover/Active Color"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "Header Button Area"
+msgstr ""
+
+#: inc/customizer.php:159
+msgid "Enter button name here"
+msgstr ""
+
+#: inc/customizer.php:170
+msgid "Add button link here"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid "Check To show Top Book Button Section"
+msgstr ""
+
+#: inc/customizer.php:191
+msgid "FrontPage Slider Sections"
+msgstr ""
+
+#: inc/customizer.php:193
+msgid "Default image size for slider is 1400 x 850 pixel."
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Select page for slider 1:"
+msgstr ""
+
+#: inc/customizer.php:217
+msgid "Select page for slider 2:"
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Select page for slider 3:"
+msgstr ""
+
+#: inc/customizer.php:240
+msgid "Slider Excerpt length"
+msgstr ""
+
+#: inc/customizer.php:257
+msgid "enter button name here"
+msgstr ""
+
+#: inc/customizer.php:271 inc/customizer.php:343 inc/customizer.php:392
+msgid "Check To Show This Section"
+msgstr ""
+
+#: inc/customizer.php:278
+msgid "Three Page Box Sections"
+msgstr ""
+
+#: inc/customizer.php:279
+msgid "Select pages from the dropdown for three box sections"
+msgstr ""
+
+#: inc/customizer.php:324
+msgid "excerpt length for three page boxes"
+msgstr ""
+
+#: inc/customizer.php:350
+msgid "Welcome Sections"
+msgstr ""
+
+#: inc/customizer.php:351
+msgid "Select pages from the dropdown for Welcome section"
+msgstr ""
+
+#: inc/customizer.php:373
+msgid "page excerpt length"
+msgstr ""
+
+#: inc/customizer.php:402
+msgid "Blog Posts Settings"
+msgstr ""
+
+#: inc/customizer.php:406
+msgid "Blog Meta Options"
+msgstr ""
+
+#: inc/customizer.php:416
+msgid "Check to hide post date"
+msgstr ""
+
+#: inc/customizer.php:428
+msgid "Check to hide post category"
+msgstr ""
+
+#: inc/customizer.php:436
+msgid "Posts Featured image"
+msgstr ""
+
+#: inc/customizer.php:446
+msgid "Check to hide post featured image"
+msgstr ""
+
+#: inc/customizer.php:458
+msgid "Check to featured image Right Side"
+msgstr ""
+
+#: inc/customizer.php:466
+msgid "Posts Excerpt Options"
+msgstr ""
+
+#: inc/customizer.php:479
+msgid "Excerpt length"
+msgstr ""
+
+#: inc/customizer.php:496
+msgid "Posts Content"
+msgstr ""
+
+#: inc/customizer.php:499
+msgid "Content"
+msgstr ""
+
+#: inc/customizer.php:500
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer.php:501
+msgid "No Excerpt"
+msgstr ""
+
+#: inc/customizer.php:507
+msgid "Posts Single Settings"
+msgstr ""
+
+#: inc/customizer.php:517
+msgid "Check to hide post date from single"
+msgstr ""
+
+#: inc/customizer.php:529
+msgid "Check to hide post category from single"
+msgstr ""
+
+#: inc/customizer.php:538
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/customizer.php:552
+msgid "Check to hide sidebar from homepage"
+msgstr ""
+
+#: no-results.php:17
+msgid "Ready to publish your first post? Get started here."
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
